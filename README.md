@@ -15,3 +15,5 @@ Cette séquence de nombres entiers peut ensuite être encodée à son tour en ut
 ​
 
 Entrainer ensuite dans un Jupyter Notebook un ou plusieurs modèle(s) de Machine Learning de votre choix en utilisant la librairie scikit-learn sur les données IMDb que vous aurez encodées au format One-Hot.
+
+I try LogisticRegression at first, it may run with GridserachCV or BayseSearchCV.
